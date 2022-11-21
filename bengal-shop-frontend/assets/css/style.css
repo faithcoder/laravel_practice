@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;700&display=swap');
+
+body{
+    font-family: 'Poppins', sans-serif;
+}
+
+.container{
+    @apply mx-auto;
+    max-width: 1400px;
+}
+
+.font-size-32{
+    font-size: 32px;
+}
